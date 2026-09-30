@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+*.dpapi
+*.log
+status.json
+browser-cleanup.json
+.env
